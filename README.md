@@ -49,9 +49,9 @@ Clayton Bot is an automated tool designed to interact with the Clayton Coin plat
    mkdir -p accounts && mkdir -p app/config
    ```
 5.  Configure all folder
-   ```
-   cp config/config_tmp.js config/config.js && cp config/proxy_list_tmp.js config/proxy_list.js
-   ```
+    ```
+    cp config/config_tmp.js config/config.js && cp config/proxy_list_tmp.js config/proxy_list.js
+    ```
 
 6. (If You Use Telegram Sessions) To configure the app, run 
    ```
