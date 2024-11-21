@@ -1,4 +1,4 @@
-# CLAYTON MINING BOT
+## CLAYTON MINING BOT
 
 ![clayton](assets/img1.png)
 
