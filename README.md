@@ -44,8 +44,6 @@ sudo ln -sf $(which chromium-browser) /opt/google/chrome/chrome
 2. Install dependencies 
    ```
    npm install 
-   sudo apt-get install chromium-browser libx11-xcb1 libxcomposite1 libasound2 libatk1.0-0 libatk-bridge2.0-0 libcairo2 libcups2 libdbus-1-3 libexpat1 libfontconfig1 libgbm1 libgcc1 libglib2.0-0 libgtk-3-0 libnspr4 libpango-1.0-0 libpangocairo-1.0-0 libstdc++6 libx11-6 libx11-xcb1 libxcb1 libxcomposite1 libxcursor1 libxdamage1 libxext6 libxfixes3 libxi6 libxrandr2 libxrender1 libxss1 libxtst6
-   sudo mkdir -p /opt/google/chrome && sudo ln -s "$(which chromium-browser)" /opt/google/chrome/chrome
    ```
    
 3. Run
@@ -53,7 +51,7 @@ sudo ln -sf $(which chromium-browser) /opt/google/chrome/chrome
    npm i telegram@2.22.2
    ```
 
-4. Make new folder 
+4. Make new accounts folder 
    ```
    mkdir -p accounts && mkdir -p app/config
    ```
