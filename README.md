@@ -21,6 +21,15 @@ Clayton Bot is an automated tool designed to interact with the Clayton Coin plat
 - Auto Play Game
 - Auto Complete Missions
 
+### ADDITIONAL SETUP ON UBUNTU
+
+```
+sudo apt-get update
+sudo apt-get install chromium-browser
+sudo mkdir -p /opt/google/chrome
+sudo ln -sf $(which chromium-browser) /opt/google/chrome/chrome
+```
+
 ## SETUP & CONFIGURE BOT
 
 ### LINUX
